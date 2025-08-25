@@ -2,8 +2,8 @@
 int rec_bs(int array[],int target,int start,int end);
 
 int main(){
-    int array[10]={2,4,5,6,7,9,12,17,20,33};
-    int n=10, target=6;
+    int array[13]={2,4,5,6,7,9,12,17,20,33,43,64};
+    int n=13, target=5;
     int start=0;
     int end=n-1;
 

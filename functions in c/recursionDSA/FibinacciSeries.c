@@ -4,7 +4,7 @@
 int fibonacci(int n);
 
 int main(){
-    int n=6;
+    int n=6; 
     printf("fibonacci of number %d is %d",n,fibonacci(n));
 }
 
